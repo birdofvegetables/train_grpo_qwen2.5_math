@@ -1,0 +1,5 @@
+transformer==4.48.3
+trl==0.14.0
+unsloth==2025.2.9
+unsloth_zoo==2025.2.4
+vllm==0.7.2
